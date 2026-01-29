@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36107.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicCore.Tests", "ClinicCore.Tests\ClinicCore.Tests.csproj", "{9FEF3CDD-12C3-4419-B0F0-3F65C8A9708A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicCore", "ClinicCore\ClinicCore.csproj", "{572B030D-EFDB-4937-B4C6-C2175B2C43C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FEF3CDD-12C3-4419-B0F0-3F65C8A9708A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEF3CDD-12C3-4419-B0F0-3F65C8A9708A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEF3CDD-12C3-4419-B0F0-3F65C8A9708A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEF3CDD-12C3-4419-B0F0-3F65C8A9708A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572B030D-EFDB-4937-B4C6-C2175B2C43C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572B030D-EFDB-4937-B4C6-C2175B2C43C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572B030D-EFDB-4937-B4C6-C2175B2C43C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572B030D-EFDB-4937-B4C6-C2175B2C43C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1853720B-CB41-4BA5-8F7D-2D8925B35AD7}
+	EndGlobalSection
+EndGlobal
